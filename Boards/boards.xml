@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <boards>
-  <board id="CK-RX65N" version="1.00" description="" keys="">
-    <download uri="https://raw.githubusercontent.com/leonardkong/smart-configurator-data/master/Boards/CK-RX65N.bcdf"/>
-  </board>
   <board id="RSKRX671" version="1.00" description="" keys="">
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/52858637de0a7c54b3a7aa25b42483a09ea67ac9/Boards/RSKRX671_V1.00.bcdf"/>
     <tornado documentNo="RBDF0033"/>
@@ -156,5 +153,9 @@
   <board id="TargetBoardRX671" version="1.01" description="Target Board for RX671 Board Description File" keys="RX">
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/9c70c46d58a3948c4351c3639f0d17deac86f195/Boards/TargetBoardRX671_V1.01.bdf"/>
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/52858637de0a7c54b3a7aa25b42483a09ea67ac9/Boards/TargetBoardRX671_V1.00.bcdf"/>
+  </board>
+  <board id="CK-RX65N" version="1.00" description="Target Board for CK-RX65N Board Description File" keys="RX">
+    <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/rx-development-adding-ck-rx65n/Boards/CK-RX65N_V1.00.bdf"/>
+    <download uri="https://raw.githubusercontent.com/leonardkong/smart-configurator-data/master/Boards/CK-RX65N.bcdf"/>
   </board>
 </boards>
